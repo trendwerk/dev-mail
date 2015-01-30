@@ -14,6 +14,7 @@ Or manually add it to your `composer.json`:
 "require-dev": {
 	"trendwerk/breadcrumbs": "1.0.0"
 },
+```
 
 ### Setup
 The constants below should be placed in your environment configuration file.
