@@ -12,7 +12,7 @@ composer require trendwerk/dev-mail 1.0.0 --dev
 Or manually add it to your `composer.json`:
 ```json
 "require-dev": {
-	"trendwerk/breadcrumbs": "1.0.0"
+	"trendwerk/dev-mail": "1.0.0"
 },
 ```
 
