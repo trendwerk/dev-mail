@@ -3,6 +3,18 @@ Development mails
 
 Redirect all mails on development and staging environments. Made for WordPress.
 
+### Installation
+If you're using Composer to manage WordPress, add this plugin to your project's development dependencies. Run:
+```sh
+composer require trendwerk/dev-mail 1.0.0 --dev
+```
+
+Or manually add it to your `composer.json`:
+```json
+"require-dev": {
+	"trendwerk/breadcrumbs": "1.0.0"
+},
+
 ### Setup
 The constants below should be placed in your environment configuration file.
 

@@ -2,6 +2,13 @@
 /**
  * Plugin Name: Development mails
  * Description: Redirect all mails on development and staging environments.
+ *
+ * Plugin URI: https://github.com/trendwerk/dev-mail
+ * 
+ * Author: Ontwerpstudio Trendwerk
+ * Author URI: https://github.com/trendwerk
+ * 
+ * Version: 1.0.0
  */
 
 class TP_Dev_Mail {
