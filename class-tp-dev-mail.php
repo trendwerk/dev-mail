@@ -4,11 +4,11 @@
  * Description: Redirect all mails on development and staging environments.
  *
  * Plugin URI: https://github.com/trendwerk/dev-mail
- * 
+ *
  * Author: Trendwerk
  * Author URI: https://github.com/trendwerk
- * 
- * Version: 1.0.1
+ *
+ * Version: 1.0.2
  */
 
 class TP_Dev_Mail {
@@ -33,5 +33,5 @@ class TP_Dev_Mail {
 
 		return $mail;
 	}
-	
+
 } new TP_Dev_Mail;
